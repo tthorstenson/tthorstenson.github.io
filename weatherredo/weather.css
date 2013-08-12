@@ -1,0 +1,108 @@
+h1{
+	text-align: center;
+	font-size:75px;
+	margin-top: 100px;
+	margin-bottom: 25px;
+	opacity: 1.0;
+	color:white;
+
+}
+#nav{
+	text-align: center;
+	margin:25px;
+	font-size: 25px;
+	color:white;
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+	opacity:1.0;
+	color:white;
+}
+.temp{
+	text-align:center;
+	font-size: 250px;
+	color:white;
+}
+
+.top{
+	width:1300px;
+	height:560px;
+	border-bottom: 2px solid black;
+	color:white;
+	
+}
+.degrees{
+	float:right;
+	font-size: 25px;
+	margin-right:25px;
+	padding-bottom: 25px;
+	color:white;
+}
+
+.day{
+	font-size: 25px;
+	margin-left: 25px;
+	color:white;
+	display:inline;
+	
+}
+.middle{
+	width: 1300px;
+	height: 125px;
+	border-bottom: 2px solid black;
+	color:white;
+}
+.col{
+	float: left;
+	width: 250px;
+	opacity:1.0;
+	color:white;
+
+}
+.col p{
+	font-size: 35px;
+	padding:10px;
+	color:white;
+}
+.col img{
+	margin-left: 20px;
+}
+.bottom{		
+	background-color: red;
+	margin: 25px;
+	color:white;
+}
+.ranges{
+	float:left;
+	display: block;
+	width: 250px;
+	float: right;
+	margin-right: 150px;
+	opacity: 1.0;
+
+}
+.bottom li{
+	font-size: 40px;
+	padding: 15px;
+	opacity: 1.0;
+}
+
+.dotw{
+	float: left;
+	width: 250px;
+	margin-left: 150px;
+}
+
+body{
+	background:url("../weather_assets/thunderstorm.jpg"); 
+
+}
+.button{
+	position:fixed;
+	top: 0px;
+	right:0px;
+}
+
+
