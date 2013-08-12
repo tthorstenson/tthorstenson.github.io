@@ -94,11 +94,16 @@ h2{
 	width: 250px;
 	margin-left: 150px;
 }
-
+/*
 body{
 	background:url("../weather_assets/thunderstorm.jpg"); 
-
 }
+*/
+ 
+body{
+background:url("../weather_assets/clear-skies.jpg");
+}
+
 .button{
 	position:fixed;
 	top: 0px;
