@@ -29,7 +29,7 @@ h2{
 .top{
 	width:1300px;
 	height:560px;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid grey;
 	color:white;
 	
 }
@@ -51,7 +51,7 @@ h2{
 .middle{
 	width: 1300px;
 	height: 125px;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid grey;
 	color:white;
 }
 .col{
