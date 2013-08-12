@@ -9,7 +9,7 @@
 <body>
 	<header>
 		<nav id="nav">
-			<a href="thorstenson@mac.com">my email</a>
+			<a href="mailto:thorstenson@mac.com">my email</a>
 		</nav>
 		</header>
 	<section>
