@@ -1,0 +1,92 @@
+body{
+	background: rgb(64,150,238); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(64,150,238,1) 0%, rgba(64,150,238,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(64,150,238,1)), color-stop(100%,rgba(64,150,238,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(64,150,238,1) 0%,rgba(64,150,238,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(64,150,238,1) 0%,rgba(64,150,238,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(64,150,238,1) 0%,rgba(64,150,238,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(64,150,238,1) 0%,rgba(64,150,238,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#4096ee',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+header{
+	width:1300px;
+	height:200px;
+	margin-top: 50px;
+
+}
+h1{
+	font-size: 100px;
+	margin-top: 100px;
+	margin-right: 300px;
+	text-shadow:5px 5px 10px #111111;
+}
+.nav a{
+	text-decoration: none;
+	font-size:20px;
+	padding:20px;
+}
+.nav a:hover{
+	color:white;
+}
+
+nav{
+	float:right;
+}
+
+body{
+	text-align: center
+}
+.pitch{
+	font-size: 35px;
+	text-shadow:1px  1px #111111;
+}
+.ipitch{
+	font-size: 35px;
+	text-shadow:1px 1px 2pc #555555;
+}
+
+.ipitch a{
+	text-shadow:1px 1px 2px #111111;
+	color:white;
+}
+
+.ipitch a:hover{
+	color:grey;
+}
+.lead{
+	line-height: 55px;
+}
+img{
+	padding:25px;
+}
+.button{
+	padding:25px;
+	background:#f33;
+	width:200px;
+	text-align: center;
+	margin-left: 575px;
+	margin-top: 25px;
+	color:white;
+	font-size: 20px;	
+	border-radius: 20px;
+	background-image: linear-gradient(to bottom,red,#222);
+
+}
+.button:hover{
+	color:black;
+	text-shadow: 1px 1px 2px #111111;
+}
+
+.sell{
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+	text-shadow: 2px 2px 4px #555555;
+}
+
+
+
+	

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>github homepage</title>
+	 <link rel="stylesheet" href="reset.css">
+	 <link rel="stylesheet" href="homepage.css">
+	 <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+
+	
+</head>
+
+<body>
+	<header>
+		<nav id="nav">
+			<a href="mailto:thorstenson@mac.com">my email</a>
+		</nav>
+		</header>
+	<section>
+		<div class="invitation">
+			<h1>learning to code</h1>
+			<p>i am currently learning to code at the starter league</p>
+			<p>if you'd like to check my progress, offer some advice, collaborate,
+				or just take a look.......</p>
+		</div>
+
+		<div class="button">
+			<button type="button">go to github here</button>
+		</div>
+
+	</section>
+
+	<footer>
+		&copy 2013 Trigger
+	</footer>
+
+</body>
+</html>
