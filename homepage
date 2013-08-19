@@ -5,8 +5,8 @@
 	 <link rel="stylesheet" href="reset.css">
 	 <link rel="stylesheet" href="homepage.css">
 	 <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+	 
 
-	
 </head>
 
 <body>
@@ -23,9 +23,12 @@
 				or just take a look.......</p>
 		</div>
 
-		<div class="button">
-			<button type="button">go to github here</button>
+		<div class="links">
+			<a href="oo.html">option ocean</a>				
+
 		</div>
+
+		
 
 	</section>
 
