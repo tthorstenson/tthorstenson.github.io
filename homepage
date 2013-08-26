@@ -5,6 +5,7 @@
 	 <link rel="stylesheet" href="reset.css">
 	 <link rel="stylesheet" href="homepage.css">
 	 <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+	 <link  rel="stylesheet" href="/homepageimage/oldframe.jpg">
 	 
 
 </head>
@@ -24,8 +25,10 @@
 		</div>
 
 		<div class="links">
-			<a href="oo.html">option ocean</a>				
-
+			
+				<a href="oo.html">option ocean</a></li>
+				<a href="craigslist2.html">craigslist2</a><li>
+				<a href="./weatherredo/weather.html">weather page</a>
 		</div>
 
 		
