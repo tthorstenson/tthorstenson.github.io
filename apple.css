@@ -85,6 +85,36 @@ nav li.last a {
 	background-color:#2F96B4;
 
 }
+section{
+	border-bottom: 1px solid grey;
+}
+th{
+	font-size: 35px;
+	padding:10px;
+}
+table{	
+	margin-top: 10px;
+	width:940px;
+	
+}
+td{
+	border:1px solid black;
+	padding:50px;
+}
+.top{
+	font-size:20px;
+}
+
+ .middle{
+ 	height:400px;
+ 	font-size: 25px;
+}
+.bottom{
+	height:400px;
+	font-size:20px;
+}
+
+
 
 
 
